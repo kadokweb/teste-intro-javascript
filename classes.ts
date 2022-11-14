@@ -14,6 +14,6 @@ class User {
     }
 }
 
-let user = new User('Doka', 'Silva', 66);
+let user = new User('Doka', 'B. Silva', 66);
 console.log(user);
 console.log(user.getFullName());
